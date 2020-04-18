@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Launcher9</string>
+
+    <!-- shared prefs-->
+    <string name="shared_prefs">launcher9_shared</string>
+    <string name="sp_desktop_columns">desktop_columns</string>
+    <string name="sp_desktop_rows">desktop_rows</string>
+    <string name="sp_shortcurbar_columns">shortcurbar_columns</string>
+    <string name="sp_shortcutbar_visible_columns">shortcutbar_visible_columns</string>
+    <string name="sp_desktop_num">desktop_num</string>
+
+    <string name="web_pager_input">请输入网址</string>
+</resources>

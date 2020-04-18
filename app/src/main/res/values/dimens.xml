@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="shortcut_bar_item_width">62dp</dimen>
+    <dimen name="shortcut_bar_item_padding_start">4dp</dimen>
+    <dimen name="shortcut_bar_item_padding_end">4dp</dimen>
+    <dimen name="shortcut_bar_item_margin">13dp</dimen>
+    <dimen name="shortcut_bar_width">371dp</dimen>
+    <dimen name="shortcut_bar_height">99dp</dimen>
+    <dimen name="app_pager_normal_height">708dp</dimen>
+    <dimen name="app_pager_special_height">667dp</dimen>
+</resources>
